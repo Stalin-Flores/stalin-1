@@ -1,3 +1,3 @@
-const mas="mas cambios"
+const mas="cambio nuevo"
 console.log(mas)
-t am okaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
